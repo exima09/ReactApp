@@ -26,7 +26,12 @@
     "member-ordering": false,
     "jsx-boolean-value": false,
     "no-console": false,
-    "no-unused-expression": false
+    "no-unused-expression": false,
+    "interface-name": [true, "never-prefix"],
+    "prettier": true,
+    "interface-over-type-literal": false,
+    "no-submodule-imports": false,
+    "no-unused-variable": false
   },
   "rulesDirectory": []
 }
